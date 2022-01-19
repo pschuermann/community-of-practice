@@ -15,7 +15,7 @@ If you need a motivation boost, something to help you get started in the first p
 
 [Get Together: How to build a community with your people](https://www.amazon.com/Get-Together-build-community-people/dp/1732265194) by Stripe Press.
 
-[Where Good Ideas Come From](https://www.amazon.com/Where-Good-Ideas-Come-Innovation-ebook/dp/B0046ZRZ30/) not specifically about communities, but you get some ideas of the magic that can happen in communities. Get some different ways to think about CoPs like liquid networks, MIT’s building 20 and Microsoft’s building 99
+[Where Good Ideas Come From](https://www.amazon.com/Where-Good-Ideas-Come-Innovation-ebook/dp/B0046ZRZ30/) not specifically about communities, but you get some ideas of the magic that can happen in communities. Get some different ways to think about CoPs like liquid networks, serendipitous discoveries from from shared spaces like MIT’s building 20 and Microsoft’s building 99
 
 
 # Talks
