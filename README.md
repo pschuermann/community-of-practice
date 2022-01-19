@@ -66,7 +66,7 @@ https://www.nurturedevelopment.org/asset-based-community-development/
 
 [Structural and Epistemic Parameters in Communities of Practice](https://www.researchgate.net/publication/247824282_Structural_and_Epistemic_Parameters_in_Communities_of_Practice) talks about how organisations can support CoPs without constraining them by controlling them in a way that disrupts the dynamics that make the community work in the first place. It differentiates between different structures and the delicate balance between seeding structures and controlling structures. A few teasers:
 - CoPs need seeding structure to grow
-- Summarises some of the original material from Wenger (he’s awesome!) of what is a CoP and how do you know one has formed.
+- Summarises some of the original material from Wenger of what is a CoP and how do you know one has formed.
 - importance of artifacts as points of focus for people to identify and interact
 - incentives and how they changed over time with a change of the structure
 - danger of becoming too introspective losing touch with the wider organisation context
