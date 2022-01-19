@@ -29,7 +29,7 @@ If you need a motivation boost, something to help you get started in the first p
 
 [Rhizomatic Education: Community as Curriculum](https://www.researchgate.net/publication/234577448_Rhizomatic_Education_Community_as_Curriculum)
 
-[Communities of practice and social learning systems: the career of a concept](https://wenger-trayner.com/wp-content/uploads/2012/01/09-10-27-CoPs-and-systems-v2.01.pdf) by Etienne Wenger, he’s the one that came up with that concept in the first place. Anything about community with his name on it is generally worth reading.
+[Communities of practice and social learning systems: the career of a concept](https://wenger-trayner.com/wp-content/uploads/2012/01/09-10-27-CoPs-and-systems-v2.01.pdf) by Etienne Wenger
 
 [The fractal structure of communities of practice: Implications for business organization](https://www.researchgate.net/publication/341034794_The_fractal_structure_of_communities_of_practice_Implications_for_business_organization) by Emily Webber and Robin Dunbar
 
