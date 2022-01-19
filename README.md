@@ -1,4 +1,4 @@
-# Communities of Practice reading and watching/listening list 
+# Communities of Practice resource list 
 This page contains links to talks, podcasts, books and accademic papers about communities of practice. Inspired by Lorin's reading lists e.g. [Messiness reading list](https://github.com/lorin/messiness)
 
 Communities are fun, amazing, very powerful and are not obvious or easy to understand. These resources will help you with that.
