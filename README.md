@@ -52,7 +52,7 @@ https://www.nurturedevelopment.org/asset-based-community-development/
 # Talks
 [Communities of Practice, the Missing Piece of Your Agile Organisation](https://www.youtube.com/watch?v=9Owrovki73o) by Emily Webber
 
-[The Origins of Opera and the Future of Programming](https://www.youtube.com/watch?v=wnjGZ4sqxkQ) by [Jessica Kerr](https://twitter.com/jessitron). Get a better idea on the magic that can happen in communities. Learn about London Coffeehouse, Florentine Camerata and Symmathesy (contextual mutual learning through interaction) an idea by [Nora Bateson](https://twitter.com/NoraBateson).
+[The Origins of Opera and the Future of Programming](https://www.youtube.com/watch?v=wnjGZ4sqxkQ) by [Jessica Kerr](https://twitter.com/jessitron). Get a better idea on the magic that can happen in communities. Learn about London Coffeehouse, Florentine Camerata and [Symmathesy](https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/) (contextual mutual learning through interaction) an idea by [Nora Bateson](https://twitter.com/NoraBateson).
 
 
 # Papers and Articles
