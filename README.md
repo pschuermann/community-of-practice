@@ -92,3 +92,5 @@ Collaborative Processes and Knowledge Creation in Communities-of-Practice (paywa
 
 # Podcast episodes
 [Making Tech Better podcast episode Communities of Practice, with Emily Webber](https://www.madetech.com/resources/podcasts/episode-12-emily-webber/)
+
+[Learning from Communities: A Conversation with Cormac Russell](bit.ly/HSCormac) by Steven Shorrock
