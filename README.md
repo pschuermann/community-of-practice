@@ -6,9 +6,9 @@ Communities are fun, amazing, very powerful and are not obvious or easy to under
 # Introductions
 [Communities of Practice, the Missing Piece of Your Agile Organisation](https://www.youtube.com/watch?v=9Owrovki73o) by [Emily Webber](https://twitter.com/ewebber).
 
-For more checout the insightful [Building Successful Communities of Practice](https://bookshop.org/books/building-successful-communities-of-practice/9780957491939) book also by Emily. This is specifically for creating Communities of Practice in the workplace.
+For more checkout the insightful [Building Successful Communities of Practice](https://bookshop.org/books/building-successful-communities-of-practice/9780957491939) book also by Emily. This is specifically for creating Communities of Practice in the workplace.
 
-If you need a courage boost, something to help you get started in the first place, checkout [Tribes](https://www.amazon.com/Tribes-We-Need-You-Lead-ebook) by Set Godin.
+If you need a courage boost, something to help you get started in the first place, checkout [Tribes](https://www.amazon.com/Tribes-We-Need-You-Lead-ebook/dp/B001FA0LAI/) by Seth Godin.
 
 # People
 Learn from expert community builders like:
