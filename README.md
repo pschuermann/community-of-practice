@@ -4,7 +4,7 @@ This page contains links to talks, podcasts, books and accademic papers about co
 Communities are fun, amazing, very powerful and are not obvious or easy to understand. These resources can help you with that.
 
 # Introductions
-[Communities of Practice, the Missing Piece of Your Agile Organisation](https://www.youtube.com/watch?v=9Owrovki73o) by [Emily Webber](https://twitter.com/ewebber).
+[Communities of Practice, the Missing Piece of Your Agile Organisation](https://www.youtube.com/watch?v=9Owrovki73o) by Emily Webber
 
 For more checkout the insightful [Building Successful Communities of Practice](https://bookshop.org/books/building-successful-communities-of-practice/9780957491939) book also by Emily. This is specifically for creating Communities of Practice in the workplace.
 
@@ -44,9 +44,23 @@ https://www.nurturedevelopment.org/asset-based-community-development/
 
 [Get Together: How to build a community with your people](https://www.amazon.com/Get-Together-build-community-people/dp/1732265194) by Stripe Press. Learn from many different stories of various community builders, not specifically for the workplace but lots of inspiration.
 
-[Asset-Based Community Development: An Incomplete Guide ](https://www.amazon.com/gp/product/B09P599177/ref=ppx_yo_dt_b_d_asin_title_o01?ie=UTF8&psc=1) (stil on my reading list)
+[Where Good Ideas Come From](https://bookshop.org/books/where-good-ideas-come-from-the-natural-history-of-innovation/9781594485381) not specifically about communities, but you get some ideas of the magic that can happen in communities. Get some different ways to think about CoPs like liquid networks, serendipitous discoveries from from shared spaces like MIT’s building 20 and Microsoft’s building 99.
 
-[Where Good Ideas Come From](https://www.amazon.com/Where-Good-Ideas-Come-Innovation-ebook/dp/B0046ZRZ30/) not specifically about communities, but you get some ideas of the magic that can happen in communities. Get some different ways to think about CoPs like liquid networks, serendipitous discoveries from from shared spaces like MIT’s building 20 and Microsoft’s building 99.
+**Stil on my reading list:**
+
+[Asset-Based Community Development: An Incomplete Guide](https://www.amazon.com/gp/product/B09P599177) by Cormac Russell
+
+[Social Learning Systems and Communities of Practice](https://rd.springer.com/book/10.1007/978-1-84996-133-2)
+
+[Community: The Structure of Belonging](https://bookshop.org/books/community-the-structure-of-belonging/9781523095568) by Peter Block
+
+[Communities of Practice: Learning, Meaning, and Identity](https://bookshop.org/books/communities-of-practice-learning-meaning-and-identity-9780521663632/9780521663632) by Etienne Wenger
+
+[Cultivating Communities of Practice](https://bookshop.org/books/cultivating-communities-of-practice-a-guide-to-managing-knowledge/9781578513307) by Etienne Wenger, Richard A McDermott and William Snyder 
+
+[Learning in Landscapes of Practice: Boundaries, identity, and knowledgeability in practice-based learning](https://bookshop.org/books/learning-in-landscapes-of-practice-boundaries-identity-and-knowledgeability-in-practice-based-learning/9781138022195)
+
+[Learning to Make a Difference: Value Creation in Social Learning Spaces](https://bookshop.org/books/learning-to-make-a-difference-value-creation-in-social-learning-spaces/9781108739535)
 
 
 # Talks
@@ -78,3 +92,5 @@ Collaborative Processes and Knowledge Creation in Communities-of-Practice (paywa
 
 # Podcast episodes
 [Making Tech Better podcast episode Communities of Practice, with Emily Webber](https://www.madetech.com/resources/podcasts/episode-12-emily-webber/)
+
+[Learning from Communities: A Conversation with Cormac Russell](bit.ly/HSCormac) by Steven Shorrock
