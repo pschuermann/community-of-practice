@@ -13,28 +13,12 @@ If you need a courage boost, something to help you get started in the first plac
 # People
 Learn from expert community builders like:
 
-## Emily Webber
-follow [Twitter](https://twitter.com/ewebber) &
-[LinkedIn](https://www.linkedin.com/in/emilywebber/)
-
-[books](https://www.amazon.com/Building-Successful-Communities-Practice-Webber/dp/095749193X)
-
-## Etienne & Beverly Wenger-Trayner
-[Twitter](https://twitter.com/wengertrayner)
-
-[books](https://wenger-trayner.com/books/)
-
-[researchgate](https://www.researchgate.net/profile/Etienne-Wenger-Trayner)
-
-## Cormac Russell
-[Twitter](https://twitter.com/CormacRussell)
-
-[books and publications](https://www.nurturedevelopment.org/who-we-are/cormac-russell/)
-
-### Asset Based Community Development (ABCD)
-Focuses on connecting people, bringing out peoples gifts and assets instead of focusing on deficiencies.
-https://www.nurturedevelopment.org/asset-based-community-development/
-
+| Name | Social Media     | Books | Papers |
+|--------------|------------------|-------|--------|
+| Emily Webber | [Twitter](https://twitter.com/ewebber) |  [books](https://www.amazon.com/Building-Successful-Communities-Practice-Webber/dp/095749193X)     |        |
+| Jean Lave |                  | [books](https://www.goodreads.com/author/list/352358.Jean_Lave) |  [papers](https://www.researchgate.net/profile/Jean-Lave) |
+| Etienne & Beverly Wenger-Trayner |  [Twitter](https://twitter.com/wengertrayner)    |  [books](https://wenger-trayner.com/books/) | [papers](https://www.researchgate.net/profile/Etienne-Wenger-Trayner)  |
+| Cormac Russell|[Twitter](https://twitter.com/CormacRussell) | [books and publications](https://www.nurturedevelopment.org/who-we-are/cormac-russell/)| |
 
 
 # Books
@@ -46,6 +30,8 @@ https://www.nurturedevelopment.org/asset-based-community-development/
 
 [Where Good Ideas Come From](https://bookshop.org/books/where-good-ideas-come-from-the-natural-history-of-innovation/9781594485381) not specifically about communities, but you get some ideas of the magic that can happen in communities. Get some different ways to think about CoPs like liquid networks, serendipitous discoveries from from shared spaces like MIT’s building 20 and Microsoft’s building 99.
 
+[Communities of Practice: Learning, Meaning, and Identity](https://bookshop.org/books/communities-of-practice-learning-meaning-and-identity-9780521663632/9780521663632) by Etienne Wenger
+
 **Stil on my reading list:**
 
 [Asset-Based Community Development: An Incomplete Guide](https://www.amazon.com/gp/product/B09P599177) by Cormac Russell
@@ -53,8 +39,6 @@ https://www.nurturedevelopment.org/asset-based-community-development/
 [Social Learning Systems and Communities of Practice](https://rd.springer.com/book/10.1007/978-1-84996-133-2)
 
 [Community: The Structure of Belonging](https://bookshop.org/books/community-the-structure-of-belonging/9781523095568) by Peter Block
-
-[Communities of Practice: Learning, Meaning, and Identity](https://bookshop.org/books/communities-of-practice-learning-meaning-and-identity-9780521663632/9780521663632) by Etienne Wenger
 
 [Cultivating Communities of Practice](https://bookshop.org/books/cultivating-communities-of-practice-a-guide-to-managing-knowledge/9781578513307) by Etienne Wenger, Richard A McDermott and William Snyder 
 
