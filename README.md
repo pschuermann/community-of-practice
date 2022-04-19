@@ -24,13 +24,16 @@ Learn from expert community builders like:
 # Books
 [Building Successful Communities of Practice](https://bookshop.org/books/building-successful-communities-of-practice/9780957491939) by Emily Webber
 
-[Situated Learning](https://www.goodreads.com/en/book/show/655464) the original book by Wenger and Lave where CoPs first came up. A must-read.
+[Communities of Practice: Learning, Meaning, and Identity](https://bookshop.org/books/communities-of-practice-learning-meaning-and-identity-9780521663632/9780521663632) by Etienne Wenger
+
+[Learning to Make a Difference: Value Creation in Social Learning Spaces](https://bookshop.org/books/learning-to-make-a-difference-value-creation-in-social-learning-spaces/9781108739535)
 
 [Get Together: How to build a community with your people](https://www.amazon.com/Get-Together-build-community-people/dp/1732265194) by Stripe Press. Learn from many different stories of various community builders, not specifically for the workplace but lots of inspiration.
 
 [Where Good Ideas Come From](https://bookshop.org/books/where-good-ideas-come-from-the-natural-history-of-innovation/9781594485381) not specifically about communities, but you get some ideas of the magic that can happen in communities. Get some different ways to think about CoPs like liquid networks, serendipitous discoveries from from shared spaces like MIT’s building 20 and Microsoft’s building 99.
 
-[Communities of Practice: Learning, Meaning, and Identity](https://bookshop.org/books/communities-of-practice-learning-meaning-and-identity-9780521663632/9780521663632) by Etienne Wenger
+[Situated Learning](https://www.goodreads.com/en/book/show/655464) the original book by Wenger and Lave where CoPs first came up. A must-read.
+
 
 **Stil on my reading list:**
 
@@ -44,11 +47,17 @@ Learn from expert community builders like:
 
 [Learning in Landscapes of Practice: Boundaries, identity, and knowledgeability in practice-based learning](https://bookshop.org/books/learning-in-landscapes-of-practice-boundaries-identity-and-knowledgeability-in-practice-based-learning/9781138022195)
 
-[Learning to Make a Difference: Value Creation in Social Learning Spaces](https://bookshop.org/books/learning-to-make-a-difference-value-creation-in-social-learning-spaces/9781108739535)
+
 
 
 # Talks
 [Communities of Practice, the Missing Piece of Your Agile Organisation](https://www.youtube.com/watch?v=9Owrovki73o) by Emily Webber
+
+[Embracing Uncertainty - Rhizomatic learning](https://youtu.be/VJIWyiLyBpQ)
+
+[Communities of Practice Keynote ACPE 2018 Conference](https://youtu.be/RWiB97TllLI) Etienne & Beverly Wenger-Trayner
+
+[Communities of Practice Keynote at Walls Optional 2015](https://youtu.be/jB_dOCmfPHc) by Beverly Wenger-Trayner
 
 [The Origins of Opera and the Future of Programming](https://www.youtube.com/watch?v=wnjGZ4sqxkQ) by [Jessica Kerr](https://twitter.com/jessitron). Get a better idea on the magic that can happen in communities. Learn about London Coffeehouse, Florentine Camerata and [Symmathesy](https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/) (contextual mutual learning through interaction) an idea by [Nora Bateson](https://twitter.com/NoraBateson).
 
