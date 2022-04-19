@@ -26,7 +26,7 @@ Learn from expert community builders like:
 
 [Communities of Practice: Learning, Meaning, and Identity](https://bookshop.org/books/communities-of-practice-learning-meaning-and-identity-9780521663632/9780521663632) by Etienne Wenger
 
-[Learning to Make a Difference: Value Creation in Social Learning Spaces](https://bookshop.org/books/learning-to-make-a-difference-value-creation-in-social-learning-spaces/9781108739535)
+[Learning to Make a Difference: Value Creation in Social Learning Spaces](https://bookshop.org/books/learning-to-make-a-difference-value-creation-in-social-learning-spaces/9781108739535) by Etienne & Beverly Wenger-Trayner
 
 [Get Together: How to build a community with your people](https://www.amazon.com/Get-Together-build-community-people/dp/1732265194) by Stripe Press. Learn from many different stories of various community builders, not specifically for the workplace but lots of inspiration.
 
