@@ -57,6 +57,8 @@ Learn from expert community builders like:
 
 [Communities of Practice Keynote ACPE 2018 Conference](https://youtu.be/RWiB97TllLI) Etienne & Beverly Wenger-Trayner
 
+[Communities of Practice 2017](https://youtu.be/fBsFlkGdbOY) Etienne & Beverly Wenger-Trayner
+
 [Communities of Practice Keynote at Walls Optional 2015](https://youtu.be/jB_dOCmfPHc) by Beverly Wenger-Trayner
 
 [The Origins of Opera and the Future of Programming](https://www.youtube.com/watch?v=wnjGZ4sqxkQ) by [Jessica Kerr](https://twitter.com/jessitron). Get a better idea on the magic that can happen in communities. Learn about London Coffeehouse, Florentine Camerata and [Symmathesy](https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/) (contextual mutual learning through interaction) an idea by [Nora Bateson](https://twitter.com/NoraBateson).
