@@ -65,7 +65,9 @@ Learn from expert community builders like:
 
 ## Origin story
 from studying apprenticeships in africa to the concept of communities of practice
+
 [Everyday Life and Learning with Jean Lave ](https://youtu.be/FAYs46icCFs)
+
 [Communities of Practice: Theories and Current Thinking 2014](https://youtu.be/71xF7HTEipo)
 
 # Papers and Articles
