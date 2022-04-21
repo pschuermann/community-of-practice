@@ -61,6 +61,8 @@ Learn from expert community builders like:
 
 [Communities of Practice Keynote at Walls Optional 2015](https://youtu.be/jB_dOCmfPHc) by Beverly Wenger-Trayner
 
+[Conversation with Bev & Etienne Wenger-Trayner about Social Learning Spaces and their book Learning to Make a Difference](https://youtu.be/FJuF3-BkkNw)
+
 [The Origins of Opera and the Future of Programming](https://www.youtube.com/watch?v=wnjGZ4sqxkQ) by [Jessica Kerr](https://twitter.com/jessitron). Get a better idea on the magic that can happen in communities. Learn about London Coffeehouse, Florentine Camerata and [Symmathesy](https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/) (contextual mutual learning through interaction) an idea by [Nora Bateson](https://twitter.com/NoraBateson).
 
 ## Origin story
