@@ -45,10 +45,6 @@ Learn from expert community builders like:
 
 [Cultivating Communities of Practice](https://bookshop.org/books/cultivating-communities-of-practice-a-guide-to-managing-knowledge/9781578513307) by Etienne Wenger, Richard A McDermott and William Snyder 
 
-[Learning in Landscapes of Practice: Boundaries, identity, and knowledgeability in practice-based learning](https://bookshop.org/books/learning-in-landscapes-of-practice-boundaries-identity-and-knowledgeability-in-practice-based-learning/9781138022195)
-
-
-
 
 # Talks
 [Communities of Practice, the Missing Piece of Your Agile Organisation](https://www.youtube.com/watch?v=9Owrovki73o) by Emily Webber
