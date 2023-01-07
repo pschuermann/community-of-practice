@@ -95,3 +95,5 @@ Collaborative Processes and Knowledge Creation in Communities-of-Practice (paywa
 [Applying Social Learning Theory to Learning Design with Etienne & Beverly Wenger-Trayner](https://open.spotify.com/episode/4BtKgkVyGqEhp7suBBy8qZ?si=8eb2f174736b463e)
 
 [Learning from Communities: A Conversation with Cormac Russell](bit.ly/HSCormac) by Steven Shorrock
+
+[Legitimate peripheral participation: the book and the idea](https://open.spotify.com/episode/1xK3AcdZkJHwpLE56lgySv?si=7cf08ae0c9b6427e) by Brian Marick from [Oddly Influenced podcast](https://podcast.oddly-influenced.dev/)
