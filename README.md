@@ -59,6 +59,8 @@ Learn from expert community builders like:
 
 [Conversation with Bev & Etienne Wenger-Trayner about Social Learning Spaces and their book Learning to Make a Difference](https://youtu.be/FJuF3-BkkNw)
 
+[Social learning theory webinar 2022](https://vimeo.com/756638560/d6b3597838#t=7m20s) by Etienne Wenger-Trayner
+
 [The Origins of Opera and the Future of Programming](https://www.youtube.com/watch?v=wnjGZ4sqxkQ) by [Jessica Kerr](https://twitter.com/jessitron). Get a better idea on the magic that can happen in communities. Learn about London Coffeehouse, Florentine Camerata and [Symmathesy](https://norabateson.wordpress.com/2015/11/03/symmathesy-a-word-in-progress/) (contextual mutual learning through interaction) an idea by [Nora Bateson](https://twitter.com/NoraBateson).
 
 ## Origin story
