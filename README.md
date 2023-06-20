@@ -45,6 +45,8 @@ Learn from expert community builders like:
 
 [Cultivating Communities of Practice](https://bookshop.org/books/cultivating-communities-of-practice-a-guide-to-managing-knowledge/9781578513307) by Etienne Wenger, Richard A McDermott and William Snyder 
 
+[Communities of practice within and across organizations: a guidebook](https://www.wenger-trayner.com/cop-guidebook/) by  Etienne Wenger-Trayner, Beverly Wenger-Trayner, Phil Reid, Claude Bruderlein
+
 
 # Talks
 [Communities of Practice, the Missing Piece of Your Agile Organisation](https://www.youtube.com/watch?v=9Owrovki73o) by Emily Webber
